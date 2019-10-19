@@ -2,7 +2,7 @@
   "name": "webv2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/danielc1771/danielc1771.github.io",
+  "homepage": "https://danielc1771.github.io/",
   "dependencies": {
     "aos": "^2.3.4",
     "bootstrap": "^4.3.1",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

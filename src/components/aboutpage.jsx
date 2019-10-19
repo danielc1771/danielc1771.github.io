@@ -22,11 +22,12 @@ class AboutPage extends Component {
           </div>
           <div className="col-lg-6 about-text">
             <p className="about-descrip">
-              Hello! My name is Daniel Castro and I'm a fourth year student
-              pursuing a degree in{" "}
-              <span className="about-highlights">Computer Science</span> at the
+              Hello! My name is Daniel Castro and I'm a senior pursuing a degree
+              in <span className="about-highlights">Computer Science</span> at
+              the
               <span className="about-highlights"> University of Florida </span>.
-              I'm very interested in software development and data science.
+              I'm very interested in the fields of software development and data
+              science.
             </p>
             <p className="about-descrip">
               When I'm not on the computer I love to explore the outdoors with
@@ -38,18 +39,6 @@ class AboutPage extends Component {
             <div className="row">
               <div className="col-6 about-skills-list">
                 <ul className="fa-ul">
-                  <li>
-                    <span className="fa-li">
-                      <i className="fas fa-angle-right" />
-                    </span>
-                    Java
-                  </li>
-                  <li>
-                    <span className="fa-li">
-                      <i className="fas fa-angle-right" />
-                    </span>
-                    C++
-                  </li>
                   <li>
                     <span className="fa-li">
                       <i className="fas fa-angle-right" />
@@ -66,7 +55,13 @@ class AboutPage extends Component {
                     <span className="fa-li">
                       <i className="fas fa-angle-right" />
                     </span>
-                    SQL
+                    Java
+                  </li>
+                  <li>
+                    <span className="fa-li">
+                      <i className="fas fa-angle-right" />
+                    </span>
+                    C++
                   </li>
                 </ul>
               </div>
@@ -82,13 +77,7 @@ class AboutPage extends Component {
                     <span className="fa-li">
                       <i className="fas fa-angle-right" />
                     </span>
-                    AngularJS
-                  </li>
-                  <li>
-                    <span className="fa-li">
-                      <i className="fas fa-angle-right" />
-                    </span>
-                    Node.js
+                    AWS
                   </li>
                   <li>
                     <span className="fa-li">
@@ -100,7 +89,7 @@ class AboutPage extends Component {
                     <span className="fa-li">
                       <i className="fas fa-angle-right" />
                     </span>
-                    Express
+                    SQL
                   </li>
                 </ul>
               </div>

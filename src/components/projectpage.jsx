@@ -19,8 +19,8 @@ class ProjectPage extends Component {
           technologies: "C# Unity",
           description:
             "An 3D-Platformer game where player must defeat alien invaders in order to rescue family.",
-          url: "",
-          git: "https://github.com/danielc1771/dimension",
+          url: "https://github.com/danielc1771/dimension",
+          git: "",
           link: "Code",
           code: ""
         },
@@ -29,8 +29,8 @@ class ProjectPage extends Component {
           technologies: "Java Socket-Programming",
           description:
             "A quiz application where client connects to server and retrieves questions from local database.",
-          url: "",
-          git: "https://github.com/danielc1771/Java-Quiz-App",
+          url: "https://github.com/danielc1771/Java-Quiz-App",
+          git: "",
           link: "Code",
           code: ""
         }
@@ -51,8 +51,8 @@ class ProjectPage extends Component {
           technologies: "C Linux libusb",
           description:
             "Used lib-usb library to create a drive that controls a virtual joystick in a Linux environment.",
-          url: "",
-          git: "https://github.com/danielc1771/Virtual-Joystick-Driver",
+          url: "https://github.com/danielc1771/Virtual-Joystick-Driver",
+          git: "",
           link: "Code",
           code: ""
         },
